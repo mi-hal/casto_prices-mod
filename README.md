@@ -1,7 +1,6 @@
 # Casto Prices
 
-### Uwaga
-Kod zamieszczony w tym repozytorium służy celom edukacyjnym, poznawczym, hobbystycznym i tak należy go używać.
+> :warning: **Uwaga:** Kod zamieszczony w tym repozytorium służy celom edukacyjnym, poznawczym, hobbystycznym i tak należy go używać.
 Każda osoba nadużywająca zamieszczonego kodu, w jakikolwiek sposób działając na cudzą szkodę, robi to wyłącznie na własną odpowiedzialność.
 
 # Instalacja w Google Chrome
