@@ -12,29 +12,30 @@ Nie należy stosować poniższej instrukcji do instalacji nieznanych i ryzykowny
 
 1. Z głównej strony repozytorium: https://github.com/xmikes/casto_prices
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic1.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic1.PNG?raw=true" width="300">
 
 2. Zapisz plik na przykład na pulpicie:
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic2.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic2.PNG?raw=true" width="300">
 
 3. Otwieramy "rozszerzenia":
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic3.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic3.PNG?raw=true" width="400">
 
 4. Włącz tryb deweloperski i użyj przycisku "Załaduj rozpakowane":
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic4.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic4.PNG?raw=true" width="700">
 
 5. Wejdź w rozpakowany katalog, zaznacz folder i potwierdź:
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic5.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic5.PNG?raw=true" width="500">
 
 6. Przypnij rozszerzenie (opcjonalnie):
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic6.PNG?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic6.PNG?raw=true" width="400">
 
 7. Używaj:
 
-![1](https://github.com/xmikes/casto_prices/blob/main/manual/pic7.png?raw=true)
+<img src="https://github.com/xmikes/casto_prices/blob/main/manual/pic7.png?raw=true" width="300">
 
+.
