@@ -6,7 +6,8 @@ Każda osoba nadużywająca zamieszczonego kodu, w jakikolwiek sposób działaj�
 
 # Instalacja w Google Chrome
 
-*Uwaga*
+**Uwaga**
+
 Instrukcja instalacji przedstawia developerski sposób załodowania rozszerzenia do przelądarki Google Chrome.
 Nie należy stosować poniższej instrukcji do instalacji nieznanych i ryzykownych rozszerzeń z innych stron. Zawsze upewnij się, co instalujesz lub ładujesz do swojej przeglądarki.
 
