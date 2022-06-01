@@ -33,7 +33,7 @@ function getPricesNew() {
 	}
 	
 	const getProductSku = function () {
-		return jQuery("p.product-content-header__product-sku span")[0].innerText;
+		return jQuery("span.product-content-header__product-sku span")[0].innerText;
 	}
 	
 	const getProductId = function () {
